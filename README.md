@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GRaVITY-NOjob
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...email me
+- 👋 Hi, I’m Abhishek
+- 👀 I’m interested in Learning New Things
+- 🌱 I’m currently learning How to 
+- 📫 How to reach me --- DM on instagram @now_shake69
 
 <!---
 GRaVITY-NOjob/GRaVITY-NOjob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
